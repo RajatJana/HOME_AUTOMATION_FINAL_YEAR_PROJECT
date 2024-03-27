@@ -2,6 +2,6 @@
 
 
 
-Google Firebase
-MIT App Inventor
-Arduino IDE
++ Google Firebase
+- MIT App Inventor
+* Arduino IDE
